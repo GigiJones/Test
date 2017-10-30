@@ -21,6 +21,7 @@ public class TestGitHub {
         System.out.println("hi");
         System.out.println("goodbye");
         System.out.println("G change");
+        System.out.println("G2 change");
     }
     
 }

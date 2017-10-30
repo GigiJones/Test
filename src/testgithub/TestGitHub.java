@@ -16,7 +16,8 @@ public class TestGitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hi");
+        System.out.println("hello");
+        System.out.println("hola");
     }
     
 }
